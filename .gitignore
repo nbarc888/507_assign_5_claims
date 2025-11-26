@@ -1,6 +1,7 @@
 # Data files (too large for GitHub)
 data/*.csv
 data/*.txt
+data_copy/*.csv
 
 # Python
 __pycache__/
